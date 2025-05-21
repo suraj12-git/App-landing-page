@@ -1,0 +1,42 @@
+.container-xxl{
+    background-image: url('bakcground.jpg');
+    width: 100vw;
+    height: 500px;
+    text-align: center;
+    padding-top: 40px;
+    color: white;
+    margin-top: 50px;
+}
+#text{
+    margin-top: 30px;
+}
+#text2{
+    margin-top: 100px;
+}
+.btnlarge{
+    margin-top: 80px;
+}
+.text3{
+    text-align: center;
+    margin-top: 20px;
+}
+.cardclass{
+    width: 90vw;
+    padding-left: 10%;
+    margin-top: 20px;
+    
+}
+#logo{
+    width: 100px;
+}
+#footer{
+    background-color: aqua;
+    padding-top: 100px;
+    text-align: center;
+    margin-top: 30px;
+    margin: 20px;
+    padding-bottom: 50px;
+
+}
+
+
